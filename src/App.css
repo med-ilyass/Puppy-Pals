@@ -40,3 +40,36 @@
 .read-the-docs {
   color: #888;
 }
+.App {
+  text-align: center;
+  padding: 2rem;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+p {
+  cursor: pointer;
+  margin: 8px 0;
+  font-size: 1.2rem;
+  color: #333;
+}
+
+p:hover {
+  color: #007acc;
+  text-decoration: underline;
+}
+
+h2 {
+  margin-top: 2rem;
+  color: #007acc;
+}
+
+ul {
+  list-style: none;
+  padding: 0;
+}
+
+ul li {
+  font-size: 1.1rem;
+  margin: 5px 0;
+}
+
